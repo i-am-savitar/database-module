@@ -3,3 +3,5 @@ const MSSQL = {
     SERVICE_PRINICIPAL: "azure-active-directory-service-principal-secret",
   },
 };
+
+module.exports = MSSQL;
